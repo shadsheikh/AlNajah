@@ -48,7 +48,7 @@ class Footer extends Component {
 					<div className='row mb-4'>
 						<div className='c col-lg-4 col-md-6 col-12'>
 							<div className='s mb-3 mb-md-0'>
-								<h6 className='footer-title mb-3'>Al-Najah Academy Online</h6>
+								<h6 className='footer-title mb-3'>Al-Najah Online Academy</h6>
 								<p className='footer-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 								<h6 className='footer-e-mail text-muted'><i className='fas fa-envelope me-2'></i>openschool@support.com</h6>
 							</div>
@@ -71,7 +71,7 @@ class Footer extends Component {
 						</div>
 					</div>
 					<div className='copyrights text-center'>
-						<p className="small text-muted mb-0">&copy; Copyrights. All rights reserved. <Link to="/">Al-Najah Academy Online</Link></p>
+						<p className="small text-muted mb-0">&copy; Copyrights. All rights reserved. <Link to="/">Al-Najah Online Academy</Link></p>
 					</div>
 				</div>
 			</div>

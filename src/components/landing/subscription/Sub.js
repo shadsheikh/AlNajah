@@ -18,7 +18,7 @@ class Sub extends Component {
 							<div className='right-side text-lg-start text-center'>
 								<h3 className='big-title text-capitalize mb-4'>get weekly courses and news are sent to your inbox</h3>
 								<p className='text text-capitalize mb-4'>
-									<span className='sub-word'>Al-Najah Academy Online</span> offers new courses and lessons weekly in all fields, if you are interested then you might desire to register via your email in order to get our offers directly in your inbox
+									<span className='sub-word'>Al-Najah Online Academy</span> offers new courses and lessons weekly in all fields, if you are interested then you might desire to register via your email in order to get our offers directly in your inbox
 								</p>
 								<div className='row'>
 									<div className='col-lg-8 col-12'>

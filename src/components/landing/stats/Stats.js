@@ -20,7 +20,7 @@ class Stats extends Component {
 			<div className='stats py-5 mb-5' id='stats'>
 				<div className='container'>
 					<div className='title py-5 text-md-start text-center'>
-						<h4 className='sub-title text-capitalize'>Al-Najah Academy Online <span>Stats</span></h4>
+						<h4 className='sub-title text-capitalize'>Al-Najah Online Academy <span>Stats</span></h4>
 					</div>
 					<div className='_box d-flex justify-content-lg-between justify-content-center flex-wrap'>
 						{this.display_stats()}
