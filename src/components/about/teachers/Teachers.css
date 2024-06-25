@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #eba649;
   }
 
   50% {
@@ -30,7 +30,7 @@
 }
 
 .teachers .container .title .sub-title span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .teachers .container .row .c .card {
@@ -46,7 +46,7 @@
 }
 
 .teachers .container .row .c .card .overlay .accounts a {
-  color: #d4be83;
+  color: #eba649;
   font-size: 20px;
 }
 

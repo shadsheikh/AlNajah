@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #eba649;
   }
 
   50% {
@@ -30,7 +30,7 @@
 }
 
 .tes .container .title .sub-title span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .tes .container .box .item {
@@ -53,7 +53,7 @@
 }
 
 .tes .container .box .item .user-info .testimonial span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .tes .container .box .item .accounts {
@@ -62,7 +62,7 @@
 
 .tes .container .box .item .accounts a {
   transition: all 0.3s;
-  color: #d4be83;
+  color: #eba649;
 }
 
 .tes .container .box .item .accounts a:hover {

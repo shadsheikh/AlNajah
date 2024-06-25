@@ -12,11 +12,23 @@
   }
 }
 
+.custom-btn {
+  background-color: #91D5E8 !important;
+  border-color: #91D5E8 !important;
+  color: #FFFFFF;
+}
+
+.custom-btn:hover {
+  background-color: #91D5E8 !important;
+  border-color: #FFFFFF !important;
+  color: #FFFFFF;
+}
+
 @keyframes coloring {
 
   0%,
   100% {
-    color: #d4be83;
+    color: #91D5E8;
   }
 
   50% {

@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #91D5E8;
   }
 
   50% {
@@ -32,17 +32,17 @@
   cursor: pointer;
   transition: all ease 0.3s;
   border-radius: 50%;
-  border: 1px solid #d4be83;
+  border: 1px solid #91D5E8;
 }
 
 .footer .container .footer-top .a a {
   transition: all ease 0.3s;
   font-size: 15px;
-  color: #d4be83;
+  color: #91D5E8;
 }
 
 .footer .container .footer-top .a:hover {
-  background-color: #d4be83;
+  background-color: #91D5E8;
 }
 
 .footer .container .footer-top .a:hover a {
@@ -50,7 +50,7 @@
 }
 
 .footer .container .row .c .s .footer-title {
-  color: #d4be83;
+  color: #eba649;
   font-weight: bolder;
   font-size: 20px;
 }
@@ -74,7 +74,7 @@
 }
 
 .footer .container .copyrights p a {
-  color: #d4be83;
+  color: #eba649;
   text-decoration: none;
 }
 

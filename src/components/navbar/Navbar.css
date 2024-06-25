@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #eba649;
   }
 
   50% {
@@ -37,7 +37,7 @@
 }
 
 .navbar .container .navbar-brand span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .navbar .container .navbar-brand i {
@@ -62,7 +62,7 @@
   height: 2px;
   width: 100%;
   position: absolute;
-  background-color: #d4be83;
+  background-color: #91D5E8;
   transition: all ease 0.3s;
   left: 0;
 }

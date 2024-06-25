@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #eba649;
   }
 
   50% {
@@ -30,7 +30,7 @@
 }
 
 .stats .container .title .sub-title span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .stats .container ._box .stat {
@@ -44,7 +44,7 @@
 .stats .container ._box .stat .num {
   font-size: 30px;
   font-weight: 800;
-  color: #d4be83;
+  color: #eba649;
 }
 
 /*# sourceMappingURL=Stats.css.map */

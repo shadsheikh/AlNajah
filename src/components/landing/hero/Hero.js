@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import './Hero.css'
-import hero from '../../../images/sections/hero.svg'
+import hero from '../../../images/landing.jpg'
 
 class Hero extends Component {
 	render() {
@@ -15,11 +15,11 @@ class Hero extends Component {
 								<h3 className='title text-capitalize'>welcome to <span>Al-Najah Online Academy</span> !</h3>
 								<p className='sub-title text-muted text-capitalize'>where your future begins</p>
 								<p className='desc pb-3'>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+									Welcome to Al Najah Online Academy, your gateway to a world of profound Islamic education and spiritual growth. Our academy is dedicated to providing a comprehensive and flexible learning experience, designed to meet the diverse needs of our students.
 								</p>
 								<div className='buttons'>
-									<Link className='btn btn-danger text-capitalize me-3 shadow' to='/about'>read more<i className="ms-2 fas fa-chevron-right"></i></Link>
-									<Link className='btn btn-outline-danger text-capitalize shadow' to='/contact'>get in touch<i className="ms-2 fas fa-envelope"></i></Link>
+									<Link className='btn text-capitalize me-3 shadow custom-btn' to='/about'>read more<i className="ms-2 fas fa-chevron-right"></i></Link>
+									<Link className='btn text-capitalize shadow custom-btn-outline' to='/contact'>get in touch<i className="ms-2 fas fa-envelope"></i></Link>
 								</div>
 							</div>
 						</div>

@@ -16,7 +16,7 @@
 
   0%,
   100% {
-    color: #d4be83;
+    color: #eba649;
   }
 
   50% {
@@ -30,7 +30,7 @@
 }
 
 .hero .container .title .sub-title span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .hero .container .row .c .left-side .title {
@@ -40,7 +40,7 @@
 }
 
 .hero .container .row .c .left-side .title span {
-  color: #d4be83;
+  color: #eba649;
 }
 
 .hero .container .row .c .left-side .desc {
@@ -50,7 +50,7 @@
 .hero .container .row .c .right-side .dc a {
   font-weight: bolder;
   text-decoration: none;
-  color: #d4be83;
+  color: #eba649;
   animation: coloring ease 2s infinite;
 }
 

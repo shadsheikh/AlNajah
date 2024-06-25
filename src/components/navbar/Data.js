@@ -9,10 +9,6 @@ let navbar_items = [
 		icon: 'fas fa-address-card',
 	},
 	{
-		name: 'blogs',
-		icon: 'fas fa-blog',
-	},
-	{
 		name: 'courses',
 		icon: 'fas fa-book-open',
 	},

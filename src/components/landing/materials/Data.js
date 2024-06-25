@@ -1,25 +1,25 @@
 
 let categories = [
 	{
-		img: require('../../../images/categories/c1.svg'),
-		name: 'web development'
+		img: require('../../../images/categories/c2.png'),
+		name: 'Qur’an Recitation'
 	},
 	{
-		img: require('../../../images/categories/c2.svg'),
-		name: 'cybersecurity'
+		img: require('../../../images/categories/c3.png'),
+		name: 'Hadith'
 	},
 	{
-		img: require('../../../images/categories/c3.svg'),
-		name: 'design'
+		img: require('../../../images/categories/c5.png'),
+		name: 'Arabic Language'
 	},
 	{
-		img: require('../../../images/categories/c4.svg'),
-		name: 'data analysis'
+		img: require('../../../images/categories/c1.png'),
+		name: 'Fiqh'
 	},
 	{
-		img: require('../../../images/categories/c5.svg'),
-		name: 'SEO'
+		img: require('../../../images/categories/c4.png'),
+		name: 'History'
 	}
 ]
 
-export {categories}
+export { categories }

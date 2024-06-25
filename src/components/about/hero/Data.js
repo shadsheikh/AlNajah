@@ -1,7 +1,7 @@
 
 let contact = [
 	{
-		info: 'openschool@support.com',
+		info: 'alnajah@support.com',
 		icon: 'fas fa-envelope',
 		cls: 'e-mail'
 	},
