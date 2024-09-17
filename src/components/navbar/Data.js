@@ -13,8 +13,8 @@ let navbar_items = [
 		icon: 'fas fa-book-open',
 	},
 	{
-		name: 'registration',
-		icon: 'fas fa-phone-alt',
+		name: 'addmission',
+		icon: 'fas fa-file-signature',
 	}
 ]
 

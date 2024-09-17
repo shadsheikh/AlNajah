@@ -3,7 +3,7 @@ import "./Contact.css";
 import { useForm } from "@formspree/react";
 
 function Contact() {
-  const [state, handleSubmit] = useForm("mzzpwzpb"); // Replace "mzzpwzpb" with your Formspree form ID
+  const [state, handleSubmit] = useForm("mzzpwzpb");
 
   if (state.succeeded) {
     return <p>Thanks for registration!</p>;

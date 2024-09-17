@@ -1,0 +1,43 @@
+@keyframes translation {
+
+  0%,
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translateX(10px);
+    opacity: 0.3;
+  }
+}
+
+@keyframes coloring {
+
+  0%,
+  100% {
+    color: #eba649;
+  }
+
+  50% {
+    color: grey;
+  }
+}
+
+.custom-btn-outline {
+  background-color: #FFFFFF !important;
+  border-color: #91D5E8 !important;
+  color: #91D5E8;
+}
+
+.custom-btn-outline:hover {
+  background-color: #91D5E8 !important;
+  border-color: #91D5E8 !important;
+  color: #FFFFFF;
+}
+
+label {
+  font-weight: 600;
+}
+
+/*# sourceMappingURL=Contact.css.map */
