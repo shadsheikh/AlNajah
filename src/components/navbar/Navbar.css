@@ -103,4 +103,24 @@
   bottom: 0;
 }
 
+.logo {
+  font-family: 'Dancing Script', 'Arial', sans-serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  background: linear-gradient(100deg, #eba649, #91D5E8);
+  -webkit-background-clip: text;
+  color: transparent;
+  /* This makes the gradient text visible */
+  text-decoration: none;
+  /* Remove underline */
+  display: flex;
+  align-items: center;
+
+}
+
+.logo:hover {
+  color: #91D5E8;
+  /* Hover color */
+}
+
 /*# sourceMappingURL=Navbar.css.map */

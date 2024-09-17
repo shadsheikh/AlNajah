@@ -1,20 +1,23 @@
+import img1 from '../../../images/tes/1.jpg';
+import img2 from '../../../images/tes/2.jpg';
+import img3 from '../../../images/tes/3.jpg';
 
-let tes = [
+const tes = [
 	{
-		img: require('../../../images/tes/1.jpg'),
+		img: img1,
 		name: 'alfredo traviski',
 		skill: 'UI/UX Designer'
 	},
 	{
-		img: require('../../../images/tes/2.jpg'),
+		img: img2,
 		name: 'André gohan',
 		skill: 'Full Stack Developer'
 	},
 	{
-		img: require('../../../images/tes/3.jpg'),
+		img: img3,
 		name: 'gilberto Mariano',
 		skill: 'Ex Student'
 	}
-]
+];
 
-export { tes }
+export { tes };

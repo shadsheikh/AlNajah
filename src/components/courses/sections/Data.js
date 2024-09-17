@@ -1,44 +1,50 @@
+import c1 from '../../../images/courses/c1.png';
+import c2 from '../../../images/courses/c2.png';
+import c3 from '../../../images/courses/c3.png';
+import c4 from '../../../images/courses/c4.png';
+import c5 from '../../../images/courses/c5.png';
+import c7 from '../../../images/courses/c7.png';
+import c8 from '../../../images/courses/c8.png';
+import c6 from '../../../images/courses/c6.png';
+import c9 from '../../../images/courses/c9.png';
 
-
-let section1 = [
+const section1 = [
 	{
 		name: 'Qur’an Recitation',
-		img: require("../../../images/courses/c1.png"),
+		img: c1,
 	},
 	{
 		name: 'Qur’an Memorization',
-		img: require("../../../images/courses/c2.png"),
+		img: c2,
 	},
 	{
 		name: 'Tafseer of Qur’an Kareem',
-		img: require("../../../images/courses/c3.png"),
+		img: c3,
 	},
 	{
 		name: 'Hadith',
-		img: require("../../../images/courses/c4.png"),
+		img: c4,
 	},
 	{
 		name: 'Fiqh',
-		img: require("../../../images/courses/c5.png"),
+		img: c5,
 	},
 	{
 		name: 'Seerah',
-		img: require("../../../images/courses/c7.png"),
+		img: c7,
 	},
 	{
 		name: 'History',
-		img: require("../../../images/courses/c8.png"),
+		img: c8,
 	},
 	{
 		name: 'Arabic Language',
-		img: require("../../../images/courses/c6.png"),
+		img: c6,
 	},
 	{
 		name: 'Deeniyyat Syllabus (specially designed)',
-		img: require("../../../images/courses/c9.png"),
+		img: c9,
 	},
-]
+];
 
-export {
-	section1
-}
+export { section1 };

@@ -13,7 +13,7 @@ let navbar_items = [
 		icon: 'fas fa-book-open',
 	},
 	{
-		name: 'contact',
+		name: 'registration',
 		icon: 'fas fa-phone-alt',
 	}
 ]
