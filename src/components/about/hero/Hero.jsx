@@ -18,10 +18,30 @@ function Hero() {
                 we are <span>Al-Najah Online Academy</span>
               </h5>
               <p className="desc mb-lg-4 mb-5">
-                Welcome to Al Najah Online Academy, your gateway to a world of
-                profound Islamic education and spiritual growth. Our academy is
-                dedicated to providing a comprehensive and flexible learning
-                experience, designed to meet the diverse needs of our students.
+                Al Najah Online International Academy was founded with a clear
+                mission: to provide a comprehensive and holistic educational
+                experience that blends Islamic values with modern academic
+                excellence. For over 4 years, we have been serving students from
+                15 countries, helping them grow spiritually and academically—all
+                through the convenience of online learning.
+              </p>
+              <p className="desc mb-lg-4 mb-5">
+                At Al Najah Academy, we believe that education should be
+                accessible and tailored to each student’s unique needs. Our
+                carefully selected team of expert teachers is dedicated to
+                nurturing students with the highest standards of both Islamic
+                knowledge and general education. Whether you're looking to
+                deepen your understanding of the Qur’an or excel in subjects
+                like English, Mathematics, Science, and more, we offer a
+                complete learning solution, all in one place.
+              </p>
+              <p className="desc mb-lg-4 mb-5">
+                Our Islamic courses cover essential areas such as Qur’an
+                Recitation and Memorization, Tafseer, Hadith, Fiqh, and Seerah,
+                while our general education offerings include English speaking
+                classes (including trending English Phonics) and other key
+                school subjects. We also provide specialized coaching for test
+                preparation to help students succeed academically.
               </p>
             </div>
           </div>
@@ -35,6 +55,42 @@ function Hero() {
                 </Link>
               </div>
             </div>
+          </div>
+          <div>
+            <h5 className="title text-capitalize mb-3">
+              <span>Our Vision:</span>
+            </h5>
+            <p className="desc mb-lg-4 mb-5">
+              To become a leading global hub for Islamic and academic education,
+              offering high-quality, flexible learning opportunities to students
+              worldwide through our fully online platform.
+            </p>
+            <h5 className="title text-capitalize mb-3">
+              <span>Our Mission:</span>
+            </h5>
+            <p className="desc mb-lg-4 mb-5">
+              To empower students with knowledge that enriches their lives both
+              spiritually and intellectually, ensuring they thrive in today’s
+              world while staying grounded in Islamic values.
+            </p>
+            <h5 className="title text-capitalize mb-3">
+              <span>Our Founder:</span>
+            </h5>
+            <p className="desc mb-lg-4 mb-5">
+              Mufti Abu Safwan Farooqui Nadwi, the visionary behind Al Najah
+              Academy, is a distinguished Islamic scholar and educator with a
+              deep commitment to spreading Islamic knowledge. He also serves as
+              a teacher of Tafseer, Fiqh, and Arabic literature at Jamea Reazul
+              Uloom Khajrana, Indore, one of the oldest and most respected
+              Islamic institutions in Madhya Pradesh.
+            </p>
+            <p className="desc mb-lg-4 mb-5">
+              Mufti Farooquis academic journey includes studies at two esteemed
+              institutions: Darul Uloom Nadwatul Ulama and Al Mahadul Aali Al
+              Islami, Hyderabad. His extensive teaching experience, combined
+              with his deep understanding of Islamic scholarship, drives Al
+              Najah Academy’s mission to deliver a world-class education.
+            </p>
           </div>
         </div>
       </div>
