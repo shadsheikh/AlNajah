@@ -30,7 +30,7 @@ function Hero() {
                 accessible and tailored to each student’s unique needs. Our
                 carefully selected team of expert teachers is dedicated to
                 nurturing students with the highest standards of both Islamic
-                knowledge and general education. Whether you're looking to
+                knowledge and general education. Whether you’re looking to
                 deepen your understanding of the Qur’an or excel in subjects
                 like English, Mathematics, Science, and more, we offer a
                 complete learning solution, all in one place.
@@ -65,7 +65,7 @@ function Hero() {
               offering high-quality, flexible learning opportunities to students
               worldwide through our fully online platform.
             </p>
-            <h5 className="title text-capitalize mb-3">
+            <h5 className="sub-title text-capitalize">
               <span>Our Mission:</span>
             </h5>
             <p className="desc mb-lg-4 mb-5">
