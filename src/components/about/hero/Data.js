@@ -1,7 +1,7 @@
 
 let contact = [
 	{
-		info: 'alnajah@support.com',
+		info: 'academy.alnajah23@gmail.com',
 		icon: 'fas fa-envelope',
 		cls: 'e-mail'
 	},
@@ -17,4 +17,4 @@ let contact = [
 	}
 ]
 
-export {contact}
+export { contact }

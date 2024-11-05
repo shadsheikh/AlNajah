@@ -29,7 +29,7 @@ const Footer = () => {
         </div>
         <div className="footer-top py-3 d-flex justify-content-center">
           <h6 className="footer-e-mail text-muted ">
-            <i className="fas fa-envelope me-2"></i>alnajah@support.com
+            <i className="fas fa-envelope me-2"></i>academy.alnajah23@gmail.com
           </h6>
         </div>
         <div className="copyrights text-center">

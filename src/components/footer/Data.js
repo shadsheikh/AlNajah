@@ -10,11 +10,11 @@ let accounts = [
 	},
 	{
 		icon: 'fab fa-instagram',
-		link: 'https://www.instagram.com/'
+		link: 'https://www.instagram.com/muftiabusafwanfarooqui'
 	},
 	{
 		icon: 'fab fa-youtube',
-		link: 'https://www.youtube.com/'
+		link: 'https://youtube.com/@abusafwanfarooquinadwioffi3449'
 	}
 ]
 
