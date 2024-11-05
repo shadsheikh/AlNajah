@@ -15,11 +15,7 @@ let accounts = [
 	{
 		icon: 'fab fa-youtube',
 		link: 'https://www.youtube.com/'
-	},
-	{
-		icon: 'fab fa-github',
-		link: 'https://www.github.com/'
 	}
 ]
 
-export {accounts}
+export { accounts }

@@ -7,6 +7,11 @@ import c7 from '../../../images/courses/c7.png';
 import c8 from '../../../images/courses/c8.png';
 import c6 from '../../../images/courses/c6.png';
 import c9 from '../../../images/courses/c9.png';
+import c10 from '../../../images/courses/c10.png';
+import c11 from '../../../images/courses/c11.png';
+import c12 from '../../../images/courses/c12.png';
+import c13 from '../../../images/courses/c13.png';
+import c14 from '../../../images/courses/c14.png';
 
 const section1 = [
 	{
@@ -34,7 +39,7 @@ const section1 = [
 		img: c7,
 	},
 	{
-		name: 'History',
+		name: 'Islamic History',
 		img: c8,
 	},
 	{
@@ -44,6 +49,26 @@ const section1 = [
 	{
 		name: 'Deeniyyat Syllabus (specially designed)',
 		img: c9,
+	},
+	{
+		name: 'English Speaking Classes (including English Phonics)',
+		img: c10,
+	},
+	{
+		name: 'Mathematics',
+		img: c11,
+	},
+	{
+		name: 'Science',
+		img: c12,
+	},
+	{
+		name: 'Social Studies',
+		img: c13,
+	},
+	{
+		name: 'Test Preparation (focused coaching for exams)',
+		img: c14,
 	},
 ];
 
