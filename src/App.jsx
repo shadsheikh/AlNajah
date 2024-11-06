@@ -5,9 +5,9 @@ import Landing from "./components/landing/Landing";
 import About from "./components/about/About";
 import Sb from "./components/scrollbtn/Sb";
 import Courses from "./components/courses/Courses";
-import Contact from "./components/contact/Contact";
+import Addmission from "./components/addmission/Addmission";
 import Notfound from "./components/notfound/Notfound";
-import ContactUS from "./components/contact copy/ContactUS";
+import ContactUS from "./components/contact/ContactUS";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
             <Route path="/alnajah" element={<Landing />} />
             <Route path="/about" element={<About />} />
             <Route path="/courses/*" element={<Courses />} />
-            <Route path="/addmission" element={<Contact />} />
+            <Route path="/addmission" element={<Addmission />} />
             <Route path="/contact" element={<ContactUS />} />
             <Route path="*" element={<Notfound />} />
           </Routes>

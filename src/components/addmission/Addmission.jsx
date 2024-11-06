@@ -2,7 +2,7 @@ import contact from "../../images/sections/contact.svg";
 import "./Contact.css";
 import { useForm } from "@formspree/react";
 
-function Contact() {
+function Addmission() {
   const [state, handleSubmit] = useForm("mzzpwzpb");
 
   if (state.succeeded) {
@@ -241,6 +241,67 @@ function Contact() {
                       &nbsp; Deeniya Syllabus
                     </label>
                   </div>
+                  <div className="form-check m-3">
+                    <input
+                      className="form-check-input"
+                      type="checkbox"
+                      name="courses"
+                      value="Deeniya Syllabus"
+                      id="course10"
+                    />
+                    <label className="form-check-label" htmlFor="course2">
+                      &nbsp; English Speaking Classes (including English
+                      Phonics)
+                    </label>
+                  </div>
+                  <div className="form-check m-3">
+                    <input
+                      className="form-check-input"
+                      type="checkbox"
+                      name="courses"
+                      value="Deeniya Syllabus"
+                      id="course10"
+                    />
+                    <label className="form-check-label" htmlFor="course2">
+                      &nbsp; Mathematics
+                    </label>
+                  </div>
+                  <div className="form-check m-3">
+                    <input
+                      className="form-check-input"
+                      type="checkbox"
+                      name="courses"
+                      value="Deeniya Syllabus"
+                      id="course10"
+                    />
+                    <label className="form-check-label" htmlFor="course2">
+                      &nbsp; Science
+                    </label>
+                  </div>
+                  <div className="form-check m-3">
+                    <input
+                      className="form-check-input"
+                      type="checkbox"
+                      name="courses"
+                      value="Deeniya Syllabus"
+                      id="course10"
+                    />
+                    <label className="form-check-label" htmlFor="course2">
+                      &nbsp; Social Studies
+                    </label>
+                  </div>
+                  <div className="form-check m-3">
+                    <input
+                      className="form-check-input"
+                      type="checkbox"
+                      name="courses"
+                      value="Deeniya Syllabus"
+                      id="course10"
+                    />
+                    <label className="form-check-label" htmlFor="course2">
+                      &nbsp; Test Preparation (focused coaching for exams)
+                    </label>
+                  </div>
                 </div>
                 <div className="form-group c col-12 mb-3">
                   <label
@@ -382,4 +443,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Addmission;
